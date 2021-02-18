@@ -31,8 +31,15 @@ undefined
 subtraction(8,2)
 6
 
-#### higher order fuctions (hof)
+
+Higher order fuctions (hof)
 ```javascript
 /*a function which accepts another function as an argument*/
-arr.map(leela)=>{console.log(leela)
- })```
+```
+rr.map((iteam,index)=>{
+    console.log(iteam+"is having index of : "+index)
+})
+VM2085:2 anithais having index of : 0
+VM2085:2 appleis having index of : 1
+VM2085:2 bananais having index of : 2
+(3) [undefined, undefined, undefined]
